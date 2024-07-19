@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rapaka Karthik</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQe0UrgIJ8BJ5Oe16pHqOPqtWVFIo9LoYEA&s>
+<img align="right" alt="Coding" width="400" src=https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rapakakarthik&label=Profile%20views&color=0e75b6&style=flat" alt="rapakakarthik" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
