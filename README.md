@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS + DevOps**
 
-- 📫 How to reach me **karthik39451@gmail.com**
+- 📫 How to reach me **rapakakarthik5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
